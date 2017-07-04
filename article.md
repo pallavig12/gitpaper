@@ -5,6 +5,4 @@
 
 ## Results
 
-## Discussion
-
 ## Conclusion
